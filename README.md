@@ -4851,7 +4851,7 @@ Author Url:  https://protemplates.in
                                 {
                                     name: "NatokBD",
                                     url: "https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7AA6JoJfhE07FTDgEoKr7lg66z3kVVf0K_V0tW-_3ZZzVWLtVNQbEnbOeQulkks6aoPtydJpw1Rj_8jkhTa1QSvwz2SGqZ8bDsbnZEpQBbZ4MXKWTe4AM8jRMd-tmd8jqFHTaEEw9SKNK1-FFVAwMn9fkvsOQ-JYNZnWD9T7FgI-lJsQBoTrzcuAoNM/s1600/NadimRazaT554547.png",
+                                    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg_TezQe2JDEvvxHgLz5FOV8JCxFZ2W5pJDEWQsKUIyLA9Ap-u",
                                     category: "BANGLA"
                                 },
 
@@ -4861,7 +4861,7 @@ Author Url:  https://protemplates.in
                                 {
                                     name: "EkusyETV",
                                     url: "https://bozztv.com/rongo/rongo-EkusheyTV/tracks-v2a1/mono.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwnQFr_IN0X9YOS226NmAv1lgBu9IkQVAkYbB_i_ULqEwBLL8SLJ-bp9mjMC92_cmFOz3vp1RmqGEoun_XAGHRjXvybYWzzZiU2nIpzMJInmo9LjxZQLs1jo16fGWtBK9fz5amI4RZGXKs81bc4IMR3EJ1ockvTz9a8_oef9-Wpp52QEPH4QYIupKzt_w/s1600/ETVLogowithGreenWatermark_1_copy_900x900.png",
+                                    img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKKuFyxIUpYNQ7D6voCfD5r12UdTE1uAi0Isqrp8PhObsU_oli",
                                     category: "BANGLA"
                                 },
 
@@ -4869,7 +4869,7 @@ Author Url:  https://protemplates.in
                                 {
                                     name: "Duronto TV",
                                     url: "https://tvsen6.aynaott.com/durontotv/index.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHw60hcU6dNcUzJnGXJPiEIW1FzwneZqKYami4ch0WnCH_lImp1WBD3Ssw8LmVRIhRv_Mh4nYQUmI3JF2Q5bXjzIN9_-boPwwOmc355loFzqZyvxn44ZqPQtsNfKZpBmoTUa7RucumJm7vG0tmAhoxDUUzvIrAhiuvleonXFKcwosQ9lzdq2Gf5FchmBI/s1600/AnthropomorphicTigerwithBoldBengaliLogo_copy_900x900.png",
+                                    img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWTHGiwQACrPdkLB2ySCc_m_2d9K3yKTYyPfTFyRFCI8LTnfjH",
                                     category: "BANGLA"
                                 },
 
