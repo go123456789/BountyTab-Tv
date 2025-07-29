@@ -4905,7 +4905,7 @@ Author Url:  https://protemplates.in
                                 {
                                     name: "RtaSports",
                                     url: "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8vv_7c928JU2WfBTrJLcgcVMTHgv842ZaH2uToHWUYz0bjZz18dcCb57FnxdiHhYFdHHhInqp-maLu7ouVfnulCkh7adB-skBFWnfFiHqistxp5Yu06WUap3rFoCIrfgA8VndOREHt1OoHlEes1Oe-CZHq6i4GhzcuDjekIgGirUkKbdozc28V4IKyiU/s1600/OdloSportandNadimRazaTVLogos_copy_900x900.png",
+                                    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxNqR-bPlfg6Icq8Hb3fB8hhSiKHJu27tBIMhquSPv6mYT_hJvZdcU7GRVqw8tyTaoK4&usqp=CAU",
                                     category: "SPORTS"
                                 },
 
