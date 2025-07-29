@@ -5267,7 +5267,13 @@ Author Url:  https://protemplates.in
                                     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwZmWCqIUZS3SxKgQXx1Wfrv34HnH1OGc8IWfPXs3wyjG8jEvlFBTM2Wkjmqe73Mt_K3_i231Lviblz0qEnkP_hDZrcnbjMkI-lVMg9NjTdsJ0I_vUW5x5rJpNjx7-KDyQ_FeITM9gj6dpJ3w-519LE7U1xwp9LNMyj5eKvpi8UHZVBNMRXp2GWymru8c/s1600/Cartoon_Network_2010_logo.svg_copy_900x900.png",
                                     category: "INDIAN"
                                 },
-
+                                {
+                                    name: "CN HD Hindi ",
+                                    url: "http://app.hughag.store/api/68b0f4e13e/playlist.m3u8",
+                                    img: "https://i.postimg.cc/sfMtzKZw/fsdfsgdfg.png",
+                                    category: "INDIAN"
+                                },
+ 
                                 {
                                     name: "Disney Channel",
                                     url: "https://live.dinesh29.com.np/stream/livetv/disneychannel/master.m3u8",
