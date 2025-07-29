@@ -5268,9 +5268,9 @@ Author Url:  https://protemplates.in
                                     category: "INDIAN"
                                 },
                                 {
-                                    name: "CN HD Hindi ",
-                                    url: "http://app.hughag.store/api/68b0f4e13e/playlist.m3u8",
-                                    img: "https://i.postimg.cc/sfMtzKZw/fsdfsgdfg.png",
+                                    name: "9xJalwa",
+                                    url: "https://live.dinesh29.com.np/stream/jiotv/9xjalwa/master.m3u8",
+                                    img: "https://live.dinesh29.com.np/logos/jiotv/9xjalwa.png",
                                     category: "INDIAN"
                                 },
  
