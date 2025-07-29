@@ -4961,9 +4961,9 @@ Author Url:  https://protemplates.in
 
 
                                 {
-                                    name: "ENG VS IND TEST",
+                                    name: "Ten Sports",
                                     url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg30cGQadd065v-8nqIQ6mYP4obJ2aIveCv4kiFy-icoEXkyxEO5XtTq7kJWWk7I9kdfGLC90Sk3l79A_1FUkuh2XTMJh53Ya3MOAuzDW1sc109rxgpU-hksxOHj9B69uraMzFUsTtekCEk6ZzytTpNnSpjJCnrIPCVSKaKIgWr_GzQqJqZhGzffX4hxyw/s1600/13e5d1e1-cfb0-436b-a136-2a6badb72819_copy_900x900_1.png",
+                                    img: "https://drcric.com/wp-content/uploads/2021/02/Ten-sports-live-cricket-1.jpg",
                                     category: "SPORTS"
                                 },
 
