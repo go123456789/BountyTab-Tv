@@ -4944,7 +4944,7 @@ Author Url:  https://protemplates.in
                                     category: "INDIAN"
                                 },
                                 {
-                                    name: "GopalBhar",
+                                    name: "GopalBhar 24/7",
                                     url: "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8",
                                     img: "https://d1or4efq32i6bx.cloudfront.net/licensing/media_content/2_336.png",
                                     category: "INDIAN"
