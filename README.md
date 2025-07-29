@@ -4885,9 +4885,9 @@ Author Url:  https://protemplates.in
 
 
                                 {
-                                    name: "WCL T20 LIVE",
+                                    name: "Star Sports1",
                                     url: "https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwIrq4Cbj2SjMSQAG8YAjDd4sBl_okNpG1j9cNqhZumRLf9X7WmGRAUpfilmWtecYgTPTLfIoasRCy6DomYNylZwPyimWASdZJZjubBIeON9Kzt4oRImzpu69L9YexZei5xiZarUAor87LWJNsOG-IwYZF_7KLLuib4ia2bve4dpXfTZ8kMAViXKpDUKE/s1600/season-2-banner-mobile_copy_900x900.webp",
+                                    img: "https://upload.wikimedia.org/wikipedia/bn/1/17/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",
                                     category: "SPORTS"
                                 },
 
