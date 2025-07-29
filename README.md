@@ -4895,7 +4895,7 @@ Author Url:  https://protemplates.in
                                 {
                                     name: "MSsports",
                                     url: "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/matribhumitv.stream/playlist.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP4UHp6iO4OMvD-7otQZB7NVW-74FQKWE14CnHhKdX1lypP0oYmG0VW5KscsWw9lzjnfve1kSvbXisLSSz5SpCuSSyEzXfddKVPp0NzehWRkzMMbwCwSszjioCbeDH5NOq0XSfD5715iV3LY1hICMoJiEF555JI5VqIFj_aO5XCoiEQO7Nvqj8ZiJnsIA/s1600/NadimRazaTVSportsChannelLogo_copy_900x900.png",
+                                    img: "https://yt3.googleusercontent.com/LVVuX3uzEO56MDtK-ICqGXOpFvxu9dbESJRXVLcQ81KDplujq0LudQh1Kia0uEG-C6fSt6e1jA=s176-c-k-c0x00ffffff-no-rj-mo",
                                     category: "SPORTS"
                                 },
 
