@@ -4967,7 +4967,7 @@ Author Url:  https://protemplates.in
                                 {
                                     name: "StarSports 1",
                                     url: "https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi43rsimZRa_d9D2BhYgWLGBoJEF5yKLffdt_WTNdTLZdngTyf0E0cQA5CL3UOQT8STgYUKpYkOUP2C3D_h9l-X8vMjAtQhhKzeQ_dW0T0ONW44Kpnhkwjfk_uj5FfaZS7gn58Adee-tNbx4OH412oQIQ0v4tgQUpVhJm4XAGHS-1DOYM6D80cEpXGMZIA/s1600/e4130794-83f4-489b-8883-dfe809922cfa_copy_900x900.png",
+                                    img: "https://upload.wikimedia.org/wikipedia/bn/1/17/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",
                                     category: "SPORTS"
                                 },
 
