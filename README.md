@@ -4846,13 +4846,7 @@ Author Url:  https://protemplates.in
                                 },
 
 
-                                {
-                                    name: "BanglaWaz",
-                                    url: "https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg29l_5RPj9sCjISPOeVxEzrz2NNj4hsplyU-jb4_cNN1WuVrxxxhwX4dD2xV0pXSsou9bEXBflg7IOFGx4gV69cZG0Gi96i1YTlgt9VkPiJ_SVCnWKzz-gtVZJwxe4CuXNgvPjAUa34HPSsYL95V6CyNTxMzPwPsurRHvaAY5VyUVxN60gL1udsSUFJOo/s1600/NadimRazaTV%2012456.png",
-                                    category: "BANGLA"
-                                },
-
+                               
 
                                 {
                                     name: "NatokBD",
@@ -4861,12 +4855,7 @@ Author Url:  https://protemplates.in
                                     category: "BANGLA"
                                 },
 
-                                {
-                                    name: "Bangla Kirton",
-                                    url: "https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaXzeFwhCbp1-xihGL9ZN5sWDKassvscxFP0TNM8GK8D_fCGusQIHnM16lPJCA18UqIQSjOSpPXwlKLekweecTIpej0VQBwjbzsOzjWhzHP_2WPyCXQ5zI9NFOoftvOjEDjchetLjjrOAkkYk_JRsdtHLK-8YNZosoHwaxXPNs-lmtNShHmmFUdbu6sZU/s1600/Krishna%27sFluteandPeacockFeathers_copy_900x900.png",
-                                    category: "BANGLA"
-                                },
+                             
 
 
                                 {
