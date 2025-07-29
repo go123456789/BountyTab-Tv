@@ -4893,9 +4893,9 @@ Author Url:  https://protemplates.in
 
 
                                 {
-                                    name: "ZIM NZ SA T20",
+                                    name: "PTV Sports",
                                     url: "https://tvsen5.aynaott.com/Ptvsports/index.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNeNTkZ0xiNmM7jjyR6lhcWjGPC4I4Bam8rO5mitywSgsitIbliTU4Xbvvq_KWxO8WDnmK4X72wz_KqSABpR01_iWThyF0irpu7f3Bbs8WgCskusacYtY8Uog8comcfv18SeSGFsDz4cIqszmTtiVWpSrgPhqeqB8TLwwQ7RitkdYptjzkpoKiP7eSwYo/s1600/dJMUTmLeVJ_copy_900x900.jpg",
+                                    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWkEpajkecBARivCCaehDSImDitw9nrvFcjTEEizzBBtUnf2zWGIJNwvy2vCS_imn9cTovrwHs0jRd7Rnupop18gLLGMfA2C4wXY4JoGW4sg",
                                     category: "SPORTS"
                                 },
 
