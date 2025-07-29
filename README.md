@@ -4943,6 +4943,12 @@ Author Url:  https://protemplates.in
                                     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaPiE-egHNiEeRPTJiN4-Nj_dKiRX-uTOvkZcyM3ZFa1Tmd8j0eUkjA2UE5fNpguTs7s-I82raPYogNNdpdW_zQNDK5-_hsw0e8euPP8Iibf-qAkhGErUd4ARQtE5l8WlDYaLgQINJ48B7TNEiesj_T2f1CY9TbygDg1vqAqhWprduejNB0bimILp9ro/s1600/disney-xd_copy_900x900.png",
                                     category: "INDIAN"
                                 },
+                                {
+                                    name: "GopalBhar",
+                                    url: "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8",
+                                    img: "https://d1or4efq32i6bx.cloudfront.net/licensing/media_content/2_336.png",
+                                    category: "INDIAN"
+                                },
 
 
                                 {
@@ -5288,13 +5294,7 @@ Author Url:  https://protemplates.in
 
                             
 
-                                {
-                                    name: "GopalBhar",
-                                    url: "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi99xWhOGdm12aQTycpOQWn9erty2SVMFIFFJqDsXM3RKDHk4S8fYQMARqsVwJWRwfj5I3bolyHa96NIUJ9X7J8B9Hpe2HEL9jMvYL1FbjhwsfnmcsV9F9yKiGKXVy_Fy11luBF731qWuoTA5e5-mnNYyLp59TirsSIQsaAdwV8CS1v3OkK5O1HUMJuzis/s1600/WalkingThroughtheVillagePath_1_copy_900x900.png",
-                                    category: "INDIAN"
-                                },
-
+                               
 
 
                                 {
