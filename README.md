@@ -4922,14 +4922,12 @@ Author Url:  https://protemplates.in
 
 
 
-                                {
-                                    name: "10Bangla",
-                                    url: "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4I9nzlDTI5eICWje7eUPunvgLPFDxom29_-VFPxNcF1NYS1KiAGJzM-4adzm-x2EbWOcjfhrF2Xgd6yhitE9j1lw0laOu0T1TZZx2GS9TTA2gLWAl6pDJXiYXT3-vrzu1XENnVQXn6LgeMw40NCqnVaYlqk32Ww8Vr3fFgOV2SFgo39IBjJpPlSf1UxY/s1600/Enterr10BanglaLogoDesign_copy_900x900_1.png",
+                                  {
+                                    name: "Disney Channel",
+                                    url: "https://live.dinesh29.com.np/stream/livetv/disneychannel/master.m3u8",
+                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl8T5QQp4hfmy2TdyhP8-NLWBcozzeMA_ukJf-EGMaUTBcOC28_YiQ429wxqHgHALJ4pUUWaqZ9tt4kK0b_sGhh2G4ztrAPZvWk0oUrtA3QjgtPKDTt2nUZbdea9KbIiK3xKVHSOkbTKZCscxxrCKAYXQmnQTskX_4jJpB0fUiZnpzG-kO5YkEC4JIED8/s1600/disney-channel_copy_900x900.png",
                                     category: "INDIAN"
                                 },
-
-
 
 
 
@@ -5263,12 +5261,7 @@ Author Url:  https://protemplates.in
                                     category: "INDIAN"
                                 },
  
-                                {
-                                    name: "Disney Channel",
-                                    url: "https://live.dinesh29.com.np/stream/livetv/disneychannel/master.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl8T5QQp4hfmy2TdyhP8-NLWBcozzeMA_ukJf-EGMaUTBcOC28_YiQ429wxqHgHALJ4pUUWaqZ9tt4kK0b_sGhh2G4ztrAPZvWk0oUrtA3QjgtPKDTt2nUZbdea9KbIiK3xKVHSOkbTKZCscxxrCKAYXQmnQTskX_4jJpB0fUiZnpzG-kO5YkEC4JIED8/s1600/disney-channel_copy_900x900.png",
-                                    category: "INDIAN"
-                                },
+                             
 
 
                                 {
