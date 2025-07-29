@@ -5156,7 +5156,7 @@ Author Url:  https://protemplates.in
                                 {
                                     name: "JALSHA",
                                     url: "https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7FHqTQd0HzZ6Czug-qr54cPEIGhZb4nAGa2R5P-f1giDsZ3fcTZuSa3QAgGFPtmQgAI3NZlX-GdOe3c0wUQUerpHg0Z3HuxtQqta0QM9P9OJyvhhZtmnK4sJyHr2sfCCvXNTa9FMoTp1tpWluuMcmiYQGp3Fi0wHQTPMBBy_eu3Cxjw7p6Y3lpSVwKtk/s1600/VibrantStarJalsaLogoDesign_copy_900x900_1.png",
+                                    img: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",
                                     category: "INDIAN"
                                 },
 
@@ -5165,7 +5165,7 @@ Author Url:  https://protemplates.in
                                 {
                                     name: "ZeeBangla",
                                     url: "https://smart.bengaldigital.live/Zee-Bangla/index.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaFLMzF0H_PLZckTg-0HnrocACrJroHJx2LjsZVDCrIyQQTZh9vLcFK49a80sA6vrySmcPV8n-DZyBG6wAQzDp7wxPf90derjNeXacPoCc7xyu_geeQvongq9kaItGcI5NMLycR_kzgAX7dhqAa2ailsUQ2VNczcF7JzxEzno2rJekBM7KIGUwkYC72Po/s1600/ZeeBanglaLogowithNadimRazaTV_copy_900x900.png",
+                                    img: "https://live.bdtype.com/upload/tv/Zee-bangla-hd-tv.png",
                                     category: "INDIAN"
                                 },
 
