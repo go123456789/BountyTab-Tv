@@ -5285,7 +5285,12 @@ Author Url:  https://protemplates.in
 
 
                             
-
+                                {
+                                    name: "Star Movies HD",
+                                    url: "https://live.dinesh29.com.np/stream/livetv/starmovieshd/master.m3u8",
+                                    img: "https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png",
+                                    category: "Movies"
+                                },
                                
 
 
