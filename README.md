@@ -4818,6 +4818,7 @@ Author Url:  https://protemplates.in
                         <div class="category-bar">
                             <button class="active" onclick="filterCategory('BANGLA', event)">BANGLA</button>
                             <button onclick="filterCategory('INDIAN', event)">INDIAN</button>
+                            <button onclick="filterCategory('MOVIES', event)">MOVIES</button>
                             <button onclick="filterCategory('SPORTS', event)">SPORTS</button>
                             <button class="dark-toggle" onclick="toggleDarkMode()">🌙</button>
                         </div>
@@ -5289,7 +5290,7 @@ Author Url:  https://protemplates.in
                                     name: "Star Movies HD",
                                     url: "https://live.dinesh29.com.np/stream/livetv/starmovieshd/master.m3u8",
                                     img: "https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png",
-                                    category: "Movies"
+                                    category: "MOVIES"
                                 },
                                
 
