@@ -4883,6 +4883,12 @@ Author Url:  https://protemplates.in
                                     category: "BANGLA"
                                 },
 
+                                {
+                                    name: "TSports",
+                                    url: "https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8",
+                                    img: "https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo",
+                                    category: "SPORTS"
+                                },
 
 
                                 {
