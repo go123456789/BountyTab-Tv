@@ -4936,6 +4936,13 @@ Author Url:  https://protemplates.in
                                     category: "INDIAN"
                                 },
 
+                                {
+                                    name: "Sonic",
+                                    url: "https://live.dinesh29.com.np/stream/jiotvplus/sonichindi/master.m3u8",
+                                    img: "https://i.imgur.com/DkMeXwz.png",
+                                    category: "INDIAN"
+                                },
+
     {
                                     name: "SuperHungama",
                                     url: "https://live.dinesh29.com.np/stream/livetv/disneyxd/master.m3u8",
