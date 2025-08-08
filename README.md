@@ -4930,7 +4930,7 @@ Author Url:  https://protemplates.in
 
                                 {
                                     name: "Disney Channel HD",
-                                    url: "http://nayatv.ydns.eu/xfireflix/flixfire/12465.ts",
+                                    url: "http://nayatv.ydns.eu/xfireflix/flixfire/12465.m3u8",
                                     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl8T5QQp4hfmy2TdyhP8-NLWBcozzeMA_ukJf-EGMaUTBcOC28_YiQ429wxqHgHALJ4pUUWaqZ9tt4kK0b_sGhh2G4ztrAPZvWk0oUrtA3QjgtPKDTt2nUZbdea9KbIiK3xKVHSOkbTKZCscxxrCKAYXQmnQTskX_4jJpB0fUiZnpzG-kO5YkEC4JIED8/s1600/disney-channel_copy_900x900.png",
                                     category: "INDIAN"
                                 },
