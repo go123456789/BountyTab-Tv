@@ -4938,7 +4938,7 @@ Author Url:  https://protemplates.in
 
       {
                                     name: "HungamaTV",
-                                    url: "https://live.dinesh29.com.np/stream/livetv/hungamatv/master.m3u8",
+                                    url: "https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8",
                                     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1WptUJRe0m8XMOe1z3Ag6kkC6UzR33j_E56DGBaW4SMCEt-JCyb2bTrzOJfZKH-Y2EgatJ4ouxfyiZiJj6MS1Sdi01_qlAOfoDiqmj7j9Nnynoz2QYMTh2Wos7vlHDHzihrjeLQxNS1TbcrTTKPLLn8JJB_LaE8Jv88_PTFxa-IaWDfqvhYlDSL5NZ6w/s1600/hungama-tv_copy_900x900.png",
                                     category: "INDIAN"
                                 },
@@ -4952,7 +4952,7 @@ Author Url:  https://protemplates.in
 
     {
                                     name: "SuperHungama",
-                                    url: "https://live.dinesh29.com.np/stream/livetv/disneyxd/master.m3u8",
+                                    url: "https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8",
                                     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaPiE-egHNiEeRPTJiN4-Nj_dKiRX-uTOvkZcyM3ZFa1Tmd8j0eUkjA2UE5fNpguTs7s-I82raPYogNNdpdW_zQNDK5-_hsw0e8euPP8Iibf-qAkhGErUd4ARQtE5l8WlDYaLgQINJ48B7TNEiesj_T2f1CY9TbygDg1vqAqhWprduejNB0bimILp9ro/s1600/disney-xd_copy_900x900.png",
                                     category: "INDIAN"
                                 },
