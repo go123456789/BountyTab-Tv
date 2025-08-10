@@ -4929,7 +4929,7 @@ Author Url:  https://protemplates.in
                                 },
                                 {
                                     name: "Sony YaY",
-                                    url: "https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyyay_576/sonyyay_576.m3u8",
+                                    url: "http://app.hughag.store/api/b45f637d05/playlist.m3u8",
                                     img: "https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",
                                     category: "INDIAN"
                                 },
