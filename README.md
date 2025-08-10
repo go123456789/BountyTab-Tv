@@ -4927,12 +4927,12 @@ Author Url:  https://protemplates.in
                                     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl8T5QQp4hfmy2TdyhP8-NLWBcozzeMA_ukJf-EGMaUTBcOC28_YiQ429wxqHgHALJ4pUUWaqZ9tt4kK0b_sGhh2G4ztrAPZvWk0oUrtA3QjgtPKDTt2nUZbdea9KbIiK3xKVHSOkbTKZCscxxrCKAYXQmnQTskX_4jJpB0fUiZnpzG-kO5YkEC4JIED8/s1600/disney-channel_copy_900x900.png",
                                     category: "INDIAN"
                                 },
-  <!-- Channel Logo -->
-  <a href="https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyyay_576/sonyyay_576.m3u8" target="_blank">
-    <img src="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp" 
-         alt="Sony YaY" 
-         width="200">
-
+                                {
+                                    name: "Sony YaY",
+                                    url: "https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyyay_576/sonyyay_576.m3u8",
+                                    img: "https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",
+                                    category: "INDIAN"
+                                },
 
       {
                                     name: "HungamaTV",
