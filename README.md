@@ -4930,7 +4930,7 @@ Author Url:  https://protemplates.in
 
                                 {
                                     name: "Sony YaY",
-                                    url: "https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyyay_576/sonyyay_576.m3u8?bitrate=1000000&channel=sonyyay_576&gp_id",
+                                    url: "https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyyay_576/sonyyay_576.m3u8",
                                     img: "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
                                     category: "INDIAN"
                                 },
