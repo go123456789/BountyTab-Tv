@@ -4929,8 +4929,8 @@ Author Url:  https://protemplates.in
                                 },
 
                                 {
-                                    name: "Sony YaY Hindi",
-                                    url: "http://194.233.82.61/auth/8tVqFpmg2UFRas_p8mExA_raEQA8vPjKiYpituk24e1tlwYEDDkWe8lQ_K4zdYaxs6wY2YDzET1-gVsUJjYWiTvWBnDiiyAQEwB77vc1W7XltMrtsOiuZ82AKzq5NGdrfnXrms0s-ziGq366jtqNIzqs_ZwxlCku9pvSA_FVVwkKf2s0_vp8D9G5Bt89Nk2hDIfcJqyv5GEt8d2CAuESbgow1g7RXpUOJAguKWaLgwa5gZywyYSjguDnTyODNn04oslWpI5NqDiG4QV0dR3r4MMwHxwvOPCKRAb9Zo9XPCfe4A_7U1T4uoSn0YVnqwPnHb6HXgGAXJ2xzk2uz4Jnaula53ZnFItuPoNSQPTUwFIZa2uBYGXroPHoZ5vFGHR0y3I09Lkt3HEOHmGAz3SWPVuLxLP9_z_YcbzHBwCbUqe7dzUPW7BalJ25vFN9_znFDnAWatsM_Gpp4-RkbH9h2pC5ilL2ZrFKh-1YBwMP_6oQIjEHrdlCGKcIdIPetQJo5ODv1kCw-KatSN_NA76M2TKnEz531e9S9Hp2an72sTmjj6E3-FXMzfKwV2teKvlrNL9a-K4dWv3aKd8ngk1V0w",
+                                    name: "Sony YaY",
+                                    url: "https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyyay_576/sonyyay_576.m3u8?bitrate=1000000&channel=sonyyay_576&gp_id",
                                     img: "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
                                     category: "INDIAN"
                                 },
