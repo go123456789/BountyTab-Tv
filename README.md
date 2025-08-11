@@ -52,7 +52,7 @@
             width: 100%;
             height: 75vh;
             max-height: 500px;
-            background: #000;
+            background: #6903a3;
             display: flex;
             align-items: center;
             justify-content: center;
