@@ -5181,7 +5181,7 @@ Author Url:  https://protemplates.in
                                 {
                                     name: "JALSHA Movies",
                                     url: "https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8",
-                                    img: "https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/69/Jalsha_Movies_HD_alt.png/revision/latest?cb=20210611104218",
+                                    img: "https://smartads.in/resources/assets/uploads/product_group/television/star-jalsha-movies-hd-logo.webp",
                                     category: "INDIAN"
                                 },
                                 {
