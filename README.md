@@ -4929,7 +4929,7 @@ Author Url:  https://protemplates.in
                                 },
                                 {
                                     name: "Sony YaY",
-                                    url: "https://livecdn-bostaflix.global.ssl.fastly.net/new/toffee/live.php?id=57bd9c2493c1&e=.m3u8",
+                                    url: "https://dtvxtream.com/sonyliv2/index.php?id=300270&file=master_2000.m3u8",
                                     img: "https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",
                                     category: "INDIAN"
                                 },
