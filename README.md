@@ -4942,6 +4942,13 @@ Author Url:  https://protemplates.in
                                 },
 
                                 {
+                                    name: "Nick Hindi",
+                                    url: "https://mini.allinonereborn.online/jiotv-ww/app/ts_live_545.m3u8",
+                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1WptUJRe0m8XMOe1z3Ag6kkC6UzR33j_E56DGBaW4SMCEt-JCyb2bTrzOJfZKH-Y2EgatJ4ouxfyiZiJj6MS1Sdi01_qlAOfoDiqmj7j9Nnynoz2QYMTh2Wos7vlHDHzihrjeLQxNS1TbcrTTKPLLn8JJB_LaE8Jv88_PTFxa-IaWDfqvhYlDSL5NZ6w/s1600/hungama-tv_copy_900x900.png",
+                                    category: "INDIAN"
+                                },
+
+                                {
                                     name: "Sonic",
                                     url: "https://live.dinesh29.com.np/stream/jiotvplus/sonichindi/master.m3u8",
                                     img: "https://i.imgur.com/DkMeXwz.png",
