@@ -4949,7 +4949,7 @@ Author Url:  https://protemplates.in
                                 },
 
                                 {
-                                    name: "Sonic",
+                                    name: "Sonic Hindi",
                                     url: "https://mini.allinonereborn.online/jiotv-ww/app/ts_live_815.m3u8",
                                     img: "https://i.imgur.com/DkMeXwz.png",
                                     category: "INDIAN"
