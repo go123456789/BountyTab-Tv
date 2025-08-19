@@ -4955,17 +4955,12 @@ Author Url:  https://protemplates.in
                                     category: "INDIAN"
                                 },
 
-                                {
+                              
+
+    {
                                     name: "Sonic Bangla",
                                     url: "https://mini.allinonereborn.online/jiotv-ww/app/ts_live_1345.m3u8",
                                     img: "https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Bangla.png",
-                                    category: "INDIAN"
-                                },
-
-    {
-                                    name: "SuperHungama",
-                                    url: "https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8",
-                                    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaPiE-egHNiEeRPTJiN4-Nj_dKiRX-uTOvkZcyM3ZFa1Tmd8j0eUkjA2UE5fNpguTs7s-I82raPYogNNdpdW_zQNDK5-_hsw0e8euPP8Iibf-qAkhGErUd4ARQtE5l8WlDYaLgQINJ48B7TNEiesj_T2f1CY9TbygDg1vqAqhWprduejNB0bimILp9ro/s1600/disney-xd_copy_900x900.png",
                                     category: "INDIAN"
                                 },
                                 {
