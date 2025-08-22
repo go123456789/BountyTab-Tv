@@ -4936,8 +4936,15 @@ Author Url:  https://protemplates.in
 
       {
                                     name: "HungamaTV",
-                                    url: "https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8",
+                                    url: "https://live.dinesh29.com.np/stream/jiotvplus/hungama/stream_0.m3u8",
                                     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1WptUJRe0m8XMOe1z3Ag6kkC6UzR33j_E56DGBaW4SMCEt-JCyb2bTrzOJfZKH-Y2EgatJ4ouxfyiZiJj6MS1Sdi01_qlAOfoDiqmj7j9Nnynoz2QYMTh2Wos7vlHDHzihrjeLQxNS1TbcrTTKPLLn8JJB_LaE8Jv88_PTFxa-IaWDfqvhYlDSL5NZ6w/s1600/hungama-tv_copy_900x900.png",
+                                    category: "INDIAN"
+                                },
+
+                            {
+                                    name: "Super Hungama",
+                                    url: "https://live.dinesh29.com.np/stream/jiotvplus/superhungama/stream_0.m3u8",
+                                    img: "https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png",
                                     category: "INDIAN"
                                 },
 
@@ -5319,8 +5326,8 @@ Author Url:  https://protemplates.in
 
                             
                                 {
-                                    name: "Star Movies HD",
-                                    url: "https://live.dinesh29.com.np/stream/livetv/starmovieshd/master.m3u8",
+                                    name: "Star Movies",
+                                    url: "https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8",
                                     img: "https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png",
                                     category: "MOVIES"
                                 },
