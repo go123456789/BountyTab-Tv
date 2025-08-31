@@ -4923,7 +4923,7 @@ Author Url:  https://protemplates.in
 
                                   {
                                     name: "Disney Channel",
-                                    url: "https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/video_0.m3u8",
+                                    url: "https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/stream_0.m3u8",
                                     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl8T5QQp4hfmy2TdyhP8-NLWBcozzeMA_ukJf-EGMaUTBcOC28_YiQ429wxqHgHALJ4pUUWaqZ9tt4kK0b_sGhh2G4ztrAPZvWk0oUrtA3QjgtPKDTt2nUZbdea9KbIiK3xKVHSOkbTKZCscxxrCKAYXQmnQTskX_4jJpB0fUiZnpzG-kO5YkEC4JIED8/s1600/disney-channel_copy_900x900.png",
                                     category: "INDIAN"
                                 },
