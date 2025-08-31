@@ -5202,7 +5202,7 @@ Author Url:  https://protemplates.in
                                 },
                                 {
                                     name: "Sony Aath",
-                                    url: "https://livecdn-bostaflix.global.ssl.fastly.net/new/toffee/live.php?id=7e00fee81848&e=.m3u8",
+                                    url: "https://livecdn-bostaflix.global.ssl.fastly.net/api/b6a720edea/playlist.m3u8",
                                     img: "https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",
                                     category: "INDIAN"
                                 },
