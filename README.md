@@ -4898,6 +4898,12 @@ Author Url:  https://protemplates.in
                                     category: "SPORTS"
                                 },
 
+                               {
+                                    name: "PTV",
+                                    url: "https://tvsen5.aynaott.com/Ptvsports/tracks-v1a1/mono.ts.m3u8",
+                                    img: "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
+                                    category: "SPORTS"
+                                },
 
                                 {
                                     name: "MSsports",
