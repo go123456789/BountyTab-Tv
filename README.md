@@ -4885,7 +4885,7 @@ Author Url:  https://protemplates.in
 
                                 {
                                     name: "TSports",
-                                    url: "https://tvsen5.aynaott.com/tsports/mono.ts.m3u8",
+                                    url: "https://nadimtv.short.gy/SonyTen1/1406/Index.m3u8",
                                     img: "https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo",
                                     category: "SPORTS"
                                 },
@@ -4893,14 +4893,14 @@ Author Url:  https://protemplates.in
 
                                 {
                                     name: "Asia Cup 2025",
-                                    url: "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8",
+                                    url: "https://nadimtv.short.gy/SonyTen1/1406/Index.m3u8",
                                     img: "https://www.sportsboom.com/_next/image?url=https%3A%2F%2Fassets.sportsboom.com%2FAsia_Cup_Trophy_e1c2a18496.jpeg&w=640&q=75",
                                     category: "SPORTS"
                                 },
 
                                {
                                     name: "PTV",
-                                    url: "https://tvsen5.aynaott.com/Ptvsports/tracks-v1a1/mono.ts.m3u8",
+                                    url: "https://nadimtv.short.gy/SonyTen3/2023/Index.m3u8",
                                     img: "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
                                     category: "SPORTS"
                                 },
